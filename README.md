@@ -32,3 +32,8 @@ except RunawayAgentException as e:
     # Clean fallback handling when a thread loop is broken
     print("Execution blocked safely. External API wallet protected.")
 ```
+# Archived
+
+This prototype is **deprecated**.
+
+Active product: https://github.com/chumbenyanthan22-creator/checkmate-
